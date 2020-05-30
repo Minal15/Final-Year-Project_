@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">WaterPollutant</string>
+
+
+    //for Login Activity
+    <string name="login_activity_text_1">Log In</string>
+    <string name="login_activity_text_2">Email</string>
+    <string name="login_activity_text_3">Password</string>
+    <string name="login_activity_text_4">Forgot Password?</string>
+    <string name="login_activity_text_5">Sign In</string>
+    <string name="login_activity_text_6">Create Account</string>
+
+
+    //for Signup Activity
+    <string name="signup_activity_text_1">Create an account</string>
+    <string name="signup_activity_text_2">First Name</string>
+    <string name="signup_activity_text_3">Last Name</string>
+    <string name="signup_activity_text_4">Password</string>
+    <string name="signup_activity_text_5">Confirm Password</string>
+    <string name="signup_activity_text_6">Email</string>
+    <string name="signup_activity_text_7">Sign Up</string>
+    <string name="isLogged">isLogged</string>
+
+    //for validation
+    <string name="email_validation_message">Please insert correct email address</string>
+    <string name="null_validation_message">Please fill all the fields</string>
+    <string name="sigup_validation_message">Please the fields</string>
+    <string name="validation_password_length">Password should be alest 8 character long</string>
+
+    //for reset
+    <string name="reset_password">Reset Password</string>
+    <string name="enter_email">Enter email</string>
+    <string name="submit">Submit</string>
+
+
+</resources>
